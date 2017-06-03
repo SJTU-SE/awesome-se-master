@@ -5,6 +5,8 @@
 ## 目录
 
 * [CSP](#csp)
+    * [Homework](#homework)
+    * [Final Paper](#final-paper)
 * [CSDI](#csdi)
 
 ___
@@ -20,7 +22,14 @@ ___
 
 ### CSP
 
-* [gaocegege-homework-2016](https://github.com/gaocegege/csp-hw-2016)
+#### Homework
+
+* [gaocegege-2016](https://github.com/gaocegege/csp-hw-2016)
+
+#### Final Paper
+
+* [gaocegege-2015](https://github.com/gaocegege/csp-final-paper-2015)
+* [gaocegege-2016](https://github.com/gaocegege/csp-final-paper-2016)
 
 ### CSDI
 
