@@ -33,4 +33,11 @@ ___
 
 ### CSDI
 
+#### Homework
+
+* [gaocegege-2017](https://github.com/gaocegege/csdi-2017-hw)
+
+#### Final Exam
+
 * [CSDI 笔记-2016](https://github.com/Emilio66/CSDI)
+
