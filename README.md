@@ -8,6 +8,8 @@
     * [Homework](#homework)
     * [Final Paper](#final-paper)
 * [CSDI](#csdi)
+    * [Homework](#homework-1)
+    * [Final Exam](#final-exam)
 
 ___
 
